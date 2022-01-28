@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'AMRAdapterMytarget'
-  s.version          = '5.14.4.0'
+  s.name             = 'AMRAdapterMytarget-Beta'
+  s.version          = '5.14.4.1'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.platform 			= :ios
   s.ios.deployment_target = '9.0'
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 arm64 x86_64' }
-  s.vendored_libraries = 'AMRAdapterMytarget/Libs/libAMRAdapterMytarget.a'
+  s.vendored_libraries = 'AMRAdapterMytarget-Beta/Libs/libAMRAdapterMytarget.a'
   s.dependency 'myTargetSDK', '5.14.4'
-  s.dependency 'AMRSDK', '~> 1.5.4'
+  s.dependency 'AMRSDK-Beta', '~> 1.5.5'
 end
