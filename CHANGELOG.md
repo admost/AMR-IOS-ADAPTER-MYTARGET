@@ -6,3 +6,4 @@ myTargetSDK [changelog](https://target.my.com/help/partners/mob/ioshistory/en)
 ## [5.16.0.0] - 2022-10-25
 ### Updated
 - Offical release for myTargetSDK 5.16.0
+- Min supported version updated to iOS 10.0+
