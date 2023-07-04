@@ -3,6 +3,10 @@
 Changelog for AMRAdapterMytarget. 
 myTargetSDK [changelog](https://target.my.com/help/partners/mob/ioshistory/en)
 
+## [5.18.0.0] - 2023-07-04
+### Updated
+- Offical release for myTargetSDK 5.18.0
+
 ## [5.17.4.0] - 2023-03-03
 ### Updated
 - Offical release for myTargetSDK 5.17.4
