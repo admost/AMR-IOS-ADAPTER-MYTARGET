@@ -3,6 +3,10 @@
 Changelog for AMRAdapterMytarget. 
 myTargetSDK [changelog](https://target.my.com/help/partners/mob/ioshistory/en)
 
+## [5.20.0.0] - 2023-20-11
+### Updated
+- Offical release for myTargetSDK 5.20.0
+
 ## [5.19.0.1] - 2023-09-08
 ### Updated
 - AdChoices, disclaimer and domain fields added for native ads.
