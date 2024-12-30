@@ -3,6 +3,10 @@
 Changelog for AMRAdapterMytarget. 
 myTargetSDK [changelog](https://target.my.com/help/partners/mob/ioshistory/en)
 
+## [5.23.0.1] - 2024-12-30
+### Updated
+- Revenue Paid supported added.
+
 ## [5.23.0.0] - 2024-12-04
 ### Updated
 - Offical release for myTargetSDK 5.23.0

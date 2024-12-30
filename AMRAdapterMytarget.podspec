@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterMytarget'
-  s.version          = '5.23.0.0'
+  s.version          = '5.23.0.1'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited.
@@ -26,5 +26,5 @@ Pod::Spec.new do |s|
   }
   s.vendored_frameworks = 'AMRAdapterMytarget/Libs/AMRAdapterMytarget.xcframework'
   s.dependency 'myTargetSDK', '5.23.0'
-  s.dependency 'AMRSDK', '~> 1.5.38'
+  s.dependency 'AMRSDK', '~> 1.5.55'
 end
