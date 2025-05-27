@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterMytarget'
-  s.version          = '5.29.1.0'
+  s.version          = '5.31.0.0'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited.
@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
   s.vendored_frameworks = 'AMRAdapterMytarget/Libs/AMRAdapterMytarget.xcframework'
-  s.dependency 'myTargetSDK', '5.29.1'
+  s.dependency 'myTargetSDK', '5.31.0'
   s.dependency 'AMRSDK', '~> 1.5.55'
 end
