@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AMRSDK",
+        "repositoryURL": "https://github.com/admost/AMR-IOS-SDK.git",
+        "state": {
+          "branch": null,
+          "revision": "135f8e03619baeb12ab7ff9f4a5c1b32d1ad3a80",
+          "version": "1.5.85"
+        }
+      },
+      {
+        "package": "KokteylLog",
+        "repositoryURL": "https://github.com/kokteyldev/KOKTEYL-LOG-SDK.git",
+        "state": {
+          "branch": null,
+          "revision": "d4cf651e3c3d591748a8887a0a04ab0f5bf7c81c",
+          "version": "1.1.4"
+        }
+      },
+      {
+        "package": "MyTargetSDK",
+        "repositoryURL": "https://github.com/myTargetSDK/mytarget-ios-spm.git",
+        "state": {
+          "branch": null,
+          "revision": "2b2f4dc29240cf45a212997b64912604e10da300",
+          "version": "5.41.0"
+        }
+      },
+      {
+        "package": "MyTrackerSDK",
+        "repositoryURL": "https://github.com/myTrackerSDK/mytracker-ios-spm.git",
+        "state": {
+          "branch": null,
+          "revision": "bbd0468cfa1a3b93aeab8f8304ece39141e1aeba",
+          "version": "3.4.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
