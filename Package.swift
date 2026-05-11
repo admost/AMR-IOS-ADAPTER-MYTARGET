@@ -33,7 +33,7 @@ let package = Package(
         .binaryTarget(
             name: "AMRAdapterMytargetLib",
             url: "https://github.com/admost/AMR-IOS-ADAPTER-MYTARGET/releases/download/5.41.0/AMRAdapterMytarget.xcframework.zip",
-            checksum: "c0e812b2b06c079a23879bc9a232f88ffbfa5e325602a6cfc568daa8517de4b5"
+            checksum: "554279400241abc86f72c918f94e02aa0396d6fa59d8f604b7cbf67920baaa10"
         )
     ]
 )
