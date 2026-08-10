@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.85"),
-        .package(url: "https://github.com/myTargetSDK/mytarget-ios-spm.git", .exact("5.41.0"))
+        .package(url: "https://github.com/myTargetSDK/mytarget-ios-spm.git", .exact("5.45.0"))
     ],
     targets: [
         .target(
@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AMRAdapterMytargetLib",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-MYTARGET/releases/download/5.41.0/AMRAdapterMytarget.xcframework.zip",
-            checksum: "554279400241abc86f72c918f94e02aa0396d6fa59d8f604b7cbf67920baaa10"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-MYTARGET/releases/download/5.45.0/AMRAdapterMytarget.xcframework.zip",
+            checksum: "0c857f913856c188a4d8c3ee1440dfeea75b8fd038a4b674c208bde495a6846b"
         )
     ]
 )

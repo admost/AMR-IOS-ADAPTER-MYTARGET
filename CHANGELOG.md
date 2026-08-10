@@ -3,6 +3,11 @@
 Changelog for AMRAdapterMytarget. 
 myTargetSDK [changelog](https://target.my.com/help/partners/mob/ioshistory/en)
 
+## [5.45.0] - 2026-08-10
+### Updated
+- Official release for myTargetSDK 5.45.0
+- Migrated off deprecated APIs: `disclaimer` -> `disclaimerInfo.text`, native click -> `onAdClickWithClikedView:nativeAd:`, interstitial/rewarded callbacks -> `MTRGInterstitialAdBannerDelegate` / `MTRGInterstitialAdVideoDelegate`
+
 ## [5.41.0] - 2026-04-09
 ### Updated
 - Offical release for myTargetSDK 5.41.0
